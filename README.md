@@ -23,7 +23,7 @@ Dork Generator is a Python tool for crafting specialized search queries (dorks) 
 1. [Getting Started](#getting-started)
    - [Windows Installation](#windows-installation)
    - [Linux Installation](#linux-installation)
-2. [Usage](#usage)
+2. [Usage Guide](#usage-guide)
    - [Operator Selection](#operator-selection)
    - [Input Source](#input-source)
    - [Quotes Option](#quotes-option)
@@ -57,7 +57,7 @@ Python3 Dork.py
 
 
 
-## Usage
+## Usage Guide
 
 ### Operator Selection
 
