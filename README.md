@@ -1,7 +1,5 @@
 ![image](https://github.com/ZenithSuite/UDorkMaker/assets/139548576/8d4e7438-0eda-4e1a-989a-3a89d87f2be0)
 
-Creating a comprehensive GitHub README.md file for your Python code and its executable version is an excellent way to provide documentation and usage instructions for your project. Below, I'll outline the structure and content you can include in your README.md file:
-
 ## Dork Generator
 
 **Description:**
