@@ -1,4 +1,5 @@
-![image](https://github.com/ZenithSuite/UDorkMaker/assets/139548576/8d4e7438-0eda-4e1a-989a-3a89d87f2be0)
+![image](https://github.com/ZenithSuite/UDorkMaker/assets/139548576/13574be6-5f4c-407b-bd2b-92132e3b1217)
+
 
 ## Dork Generator
 
